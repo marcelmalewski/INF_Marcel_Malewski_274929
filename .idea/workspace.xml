@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab4/report.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/zadanie1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/plot0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/plot0Ackley.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/plot0Booth.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/plot0BoothX.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/plot2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/miasta.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/zadanie1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/zadanie2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/zadanie3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/report.log" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/report.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/zadanie1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/zadanie1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +52,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,6 +69,7 @@
       <workItem from="1648033709890" duration="1885000" />
       <workItem from="1648037943464" duration="4760000" />
       <workItem from="1648628334987" duration="8185000" />
+      <workItem from="1648655068925" duration="10661000" />
     </task>
     <servers />
   </component>
