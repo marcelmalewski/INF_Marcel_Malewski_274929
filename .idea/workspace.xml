@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab3/zadani2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/zadanie1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/zadanie3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/zadanie1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,15 +28,20 @@
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="26SgvNXtJfZUGqCJaPUynKIrWOU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,6 +55,7 @@
       <workItem from="1648027158950" duration="4945000" />
       <workItem from="1648033709890" duration="1885000" />
       <workItem from="1648037943464" duration="4760000" />
+      <workItem from="1648628334987" duration="8185000" />
     </task>
     <servers />
   </component>
@@ -66,5 +72,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
