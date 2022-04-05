@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab4/plot0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/plot0Ackley.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/plot0Booth.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/plot0BoothX.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/plot2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="zrobione lab4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/miasta.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/zadanie1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/zadanie2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/zadanie3.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/report.log" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/report.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/zadanie1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/zadanie1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +57,17 @@
       <workItem from="1648033709890" duration="1885000" />
       <workItem from="1648037943464" duration="4760000" />
       <workItem from="1648628334987" duration="8185000" />
-      <workItem from="1648655068925" duration="10661000" />
+      <workItem from="1648655068925" duration="10849000" />
+      <workItem from="1648742220832" duration="16000" />
     </task>
+    <task id="LOCAL-00001" summary="zrobione lab4">
+      <created>1648672102437</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648672102437</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="zrobione lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="zrobione lab4" />
   </component>
 </project>
