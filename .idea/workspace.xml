@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="zrobione lab4">
+      <change afterPath="$PROJECT_DIR$/lab5/report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/zadanie1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -59,6 +63,8 @@
       <workItem from="1648628334987" duration="8185000" />
       <workItem from="1648655068925" duration="10849000" />
       <workItem from="1648742220832" duration="16000" />
+      <workItem from="1649234862939" duration="3229000" />
+      <workItem from="1649243311250" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="zrobione lab4">
       <created>1648672102437</created>
