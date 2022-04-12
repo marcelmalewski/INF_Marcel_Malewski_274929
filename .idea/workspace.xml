@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="zrobione lab4">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="dokończone lab5">
+      <change afterPath="$PROJECT_DIR$/projekt1/fillAPix10x10.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projekt1/movie.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projekt1/projekt1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5/report.log" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/report.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5/zadanie1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/zadanie1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +40,18 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaLab2" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mmale\Repozytoria\inteligencja\projekt1" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,7 +70,16 @@
       <workItem from="1648742220832" duration="16000" />
       <workItem from="1649234862939" duration="3229000" />
       <workItem from="1649243311250" duration="52000" />
-      <workItem from="1649259387337" duration="325000" />
+      <workItem from="1649259387337" duration="684000" />
+      <workItem from="1649284947819" duration="6000" />
+      <workItem from="1649313416203" duration="4299000" />
+      <workItem from="1649365544309" duration="5618000" />
+      <workItem from="1649442803400" duration="4122000" />
+      <workItem from="1649494049841" duration="270000" />
+      <workItem from="1649583638722" duration="15672000" />
+      <workItem from="1649610486852" duration="1690000" />
+      <workItem from="1649612224309" duration="2176000" />
+      <workItem from="1649614446719" duration="1173000" />
     </task>
     <task id="LOCAL-00001" summary="zrobione lab4">
       <created>1648672102437</created>
@@ -74,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648672102437</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dokończone lab5">
+      <created>1649260026794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649260026794</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dokończone lab5">
+      <created>1649260050564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649260050564</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="zrobione lab4" />
-    <option name="LAST_COMMIT_MESSAGE" value="zrobione lab4" />
+    <MESSAGE value="dokończone lab5" />
+    <option name="LAST_COMMIT_MESSAGE" value="dokończone lab5" />
   </component>
 </project>
