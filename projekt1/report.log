@@ -1,0 +1,10 @@
+2022-04-14 00:22:30,263 - pyswarms.backend.generators - ERROR - Bounds and/or init_pos should be of size (400,)
+Traceback (most recent call last):
+  File "C:\Users\mmale\AppData\Local\Programs\Python\Python39\lib\site-packages\pyswarms\backend\generators.py", line 81, in generate_swarm
+    pos = center * np.random.uniform(
+  File "mtrand.pyx", line 1134, in numpy.random.mtrand.RandomState.uniform
+  File "_common.pyx", line 579, in numpy.random._common.cont
+  File "_common.pyx", line 496, in numpy.random._common.cont_broadcast_2
+  File "__init__.pxd", line 742, in numpy.PyArray_MultiIterNew3
+ValueError: shape mismatch: objects cannot be broadcast to a single shape.  Mismatch is between arg 0 with shape (10, 400) and arg 1 with shape (10, 6).
+2022-04-14 00:23:33,313 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
