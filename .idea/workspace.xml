@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="dokończone lab5">
-      <change afterPath="$PROJECT_DIR$/projekt1/fillAPix10x10.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projekt1/movie.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projekt1/projekt1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projekt1/projekt1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projekt1/projekt1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +79,7 @@
       <workItem from="1649610486852" duration="1690000" />
       <workItem from="1649612224309" duration="2176000" />
       <workItem from="1649614446719" duration="1173000" />
+      <workItem from="1649837987378" duration="11506000" />
     </task>
     <task id="LOCAL-00001" summary="zrobione lab4">
       <created>1648672102437</created>
