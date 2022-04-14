@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="dokończone lab5">
-      <change afterPath="$PROJECT_DIR$/projekt1/fillAPix20x20.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projekt1/report.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="na laptopa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projekt1/projekt1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projekt1/projekt1.ipynb" afterDir="false" />
     </list>
@@ -28,7 +25,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="26SgvNXtJfZUGqCJaPUynKIrWOU" />
   <component name="ProjectLevelVcsManager">
@@ -43,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/szkola/pythonimages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaProjects" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -83,6 +80,8 @@
       <workItem from="1649612224309" duration="2176000" />
       <workItem from="1649614446719" duration="1173000" />
       <workItem from="1649837987378" duration="11506000" />
+      <workItem from="1649928316855" duration="2316000" />
+      <workItem from="1649932773757" duration="3408000" />
     </task>
     <task id="LOCAL-00001" summary="zrobione lab4">
       <created>1648672102437</created>
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649260050564</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="na laptopa">
+      <created>1649894336687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649894336687</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +132,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="zrobione lab4" />
     <MESSAGE value="dokończone lab5" />
-    <option name="LAST_COMMIT_MESSAGE" value="dokończone lab5" />
+    <MESSAGE value="na laptopa" />
+    <option name="LAST_COMMIT_MESSAGE" value="na laptopa" />
   </component>
 </project>
