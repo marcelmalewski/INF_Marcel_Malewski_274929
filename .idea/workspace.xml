@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="na laptopa">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="projekt na ukończeniu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/zadanie3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/zadanie3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/zadanie1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/zadania.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5/zadanie1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/zadania.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projekt1/movie.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projekt1/projekt1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projekt1/projekt1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projekt1/report.log" beforeDir="false" afterPath="$PROJECT_DIR$/projekt1/report.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +89,9 @@
       <workItem from="1650111494913" duration="25220000" />
       <workItem from="1650222690130" duration="14204000" />
       <workItem from="1650273256822" duration="10118000" />
-      <workItem from="1650304633414" duration="7028000" />
+      <workItem from="1650304633414" duration="10667000" />
+      <workItem from="1650355382783" duration="5733000" />
+      <workItem from="1650376310172" duration="5723000" />
     </task>
     <task id="LOCAL-00001" summary="zrobione lab4">
       <created>1648672102437</created>
@@ -125,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649894336687</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="projekt na ukończeniu">
+      <created>1650313441915</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650313441915</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +150,7 @@
     <MESSAGE value="zrobione lab4" />
     <MESSAGE value="dokończone lab5" />
     <MESSAGE value="na laptopa" />
-    <option name="LAST_COMMIT_MESSAGE" value="na laptopa" />
+    <MESSAGE value="projekt na ukończeniu" />
+    <option name="LAST_COMMIT_MESSAGE" value="projekt na ukończeniu" />
   </component>
 </project>
