@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc4eb6bf-7f9b-4cfe-9868-f0bfa403e4eb" name="Changes" comment="poprawka" />
+    <list default="true" id="dc4eb6bf-7f9b-4cfe-9868-f0bfa403e4eb" name="Changes" comment="lab 1 wysłane ponownie">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projekt1/projekt1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projekt1/projekt1.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650442713980</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="poprawka">
+      <created>1650442740863</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650442740863</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lab 1 wysłane ponownie">
+      <created>1650443193926</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650443193926</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +176,7 @@
     <MESSAGE value="na laptopa" />
     <MESSAGE value="projekt na ukończeniu" />
     <MESSAGE value="poprawka" />
-    <option name="LAST_COMMIT_MESSAGE" value="poprawka" />
+    <MESSAGE value="lab 1 wysłane ponownie" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 1 wysłane ponownie" />
   </component>
 </project>
