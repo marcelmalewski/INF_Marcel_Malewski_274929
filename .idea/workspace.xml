@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc4eb6bf-7f9b-4cfe-9868-f0bfa403e4eb" name="Changes" comment="lab 1 wysłane ponownie">
+    <list default="true" id="dc4eb6bf-7f9b-4cfe-9868-f0bfa403e4eb" name="Changes" comment="ukończony projekt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projekt1/projekt1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projekt1/projekt1.ipynb" afterDir="false" />
     </list>
@@ -36,6 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -152,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650443193926</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ukończony projekt">
+      <created>1650443788920</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1650443788920</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +185,7 @@
     <MESSAGE value="projekt na ukończeniu" />
     <MESSAGE value="poprawka" />
     <MESSAGE value="lab 1 wysłane ponownie" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 1 wysłane ponownie" />
+    <MESSAGE value="ukończony projekt" />
+    <option name="LAST_COMMIT_MESSAGE" value="ukończony projekt" />
   </component>
 </project>
