@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="projekt na ukończeniu">
+      <change afterPath="$PROJECT_DIR$/projekt1/movie1.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projekt1/_Fill-a-pix (Rój vs Algorytm genetyczny).png" beforeDir="false" afterPath="$PROJECT_DIR$/projekt1/Fill-a-pix (Rój vs Algorytm genetyczny).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projekt1/_Fill-a-pix (Rój).png" beforeDir="false" afterPath="$PROJECT_DIR$/projekt1/Fill-a-pix times (Rój).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projekt1/_Fill-a-pix.png" beforeDir="false" afterPath="$PROJECT_DIR$/projekt1/Fill-a-pix times.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projekt1/hum-anime.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projekt1/projekt1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projekt1/projekt1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projekt1/report.log" beforeDir="false" afterPath="$PROJECT_DIR$/projekt1/report.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +42,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mmale\Repozytoria\inteligencja\projekt1" />
@@ -92,6 +95,9 @@
       <workItem from="1650304633414" duration="10667000" />
       <workItem from="1650355382783" duration="5733000" />
       <workItem from="1650376310172" duration="5723000" />
+      <workItem from="1650410175938" duration="84000" />
+      <workItem from="1650410276249" duration="4555000" />
+      <workItem from="1650415082535" duration="3088000" />
     </task>
     <task id="LOCAL-00001" summary="zrobione lab4">
       <created>1648672102437</created>
