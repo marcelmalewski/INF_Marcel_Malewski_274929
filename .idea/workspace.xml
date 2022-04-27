@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc4eb6bf-7f9b-4cfe-9868-f0bfa403e4eb" name="Changes" comment="ukończony projekt">
+    <list default="true" id="dc4eb6bf-7f9b-4cfe-9868-f0bfa403e4eb" name="Changes" comment="ukończony projekt finalnie">
+      <change afterPath="$PROJECT_DIR$/lab6/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/iris_with_errors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/zadania.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projekt1/projekt1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projekt1/projekt1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,13 +15,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,6 +46,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -43,13 +54,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mmale\Repozytoria\inteligencja\lab6" />
       <recent name="C:\Users\mmale\Repozytoria\inteligencja\projekt1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="93d6d670-153c-4b54-9c6a-5913b213d32f" name="Changes" comment="" />
+      <changelist id="dc4eb6bf-7f9b-4cfe-9868-f0bfa403e4eb" name="Changes" comment="ukończony projekt" />
       <created>1647422635856</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -89,6 +101,10 @@
       <workItem from="1650410175938" duration="84000" />
       <workItem from="1650410276249" duration="4555000" />
       <workItem from="1650415082535" duration="3088000" />
+      <workItem from="1650447778396" duration="234000" />
+      <workItem from="1651048541855" duration="3028000" />
+      <workItem from="1651051649078" duration="730000" />
+      <workItem from="1651059253638" duration="5869000" />
     </task>
     <task id="LOCAL-00001" summary="zrobione lab4">
       <created>1648672102437</created>
@@ -160,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650443788920</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ukończony projekt finalnie">
+      <created>1650447803279</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1650447803279</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +209,7 @@
     <MESSAGE value="poprawka" />
     <MESSAGE value="lab 1 wysłane ponownie" />
     <MESSAGE value="ukończony projekt" />
-    <option name="LAST_COMMIT_MESSAGE" value="ukończony projekt" />
+    <MESSAGE value="ukończony projekt finalnie" />
+    <option name="LAST_COMMIT_MESSAGE" value="ukończony projekt finalnie" />
   </component>
 </project>
