@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc4eb6bf-7f9b-4cfe-9868-f0bfa403e4eb" name="Changes" comment="ukończony projekt finalnie">
-      <change afterPath="$PROJECT_DIR$/lab6/iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/iris_with_errors.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/zadania.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dc4eb6bf-7f9b-4cfe-9868-f0bfa403e4eb" name="Changes" comment="zrobiona lab6 zadanie 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +99,7 @@
       <workItem from="1650447778396" duration="234000" />
       <workItem from="1651048541855" duration="3028000" />
       <workItem from="1651051649078" duration="730000" />
-      <workItem from="1651059253638" duration="5869000" />
+      <workItem from="1651059253638" duration="6011000" />
     </task>
     <task id="LOCAL-00001" summary="zrobione lab4">
       <created>1648672102437</created>
@@ -183,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650447803279</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="zrobiona lab6 zadanie 1">
+      <created>1651065633126</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1651065633126</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +212,7 @@
     <MESSAGE value="lab 1 wysłane ponownie" />
     <MESSAGE value="ukończony projekt" />
     <MESSAGE value="ukończony projekt finalnie" />
-    <option name="LAST_COMMIT_MESSAGE" value="ukończony projekt finalnie" />
+    <MESSAGE value="zrobiona lab6 zadanie 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="zrobiona lab6 zadanie 1" />
   </component>
 </project>
