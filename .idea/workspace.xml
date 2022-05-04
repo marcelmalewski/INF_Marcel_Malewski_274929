@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc4eb6bf-7f9b-4cfe-9868-f0bfa403e4eb" name="Changes" comment="zrobiona lab6 zadanie 1">
+      <change afterPath="$PROJECT_DIR$/lab7/diabetes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/zadania.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/iris.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lab6/zadania.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/zadania.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,19 +47,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/mmale/Desktop/szkola/pythonimages",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mmale\Repozytoria\inteligencja\lab7" />
       <recent name="C:\Users\mmale\Repozytoria\inteligencja\lab6" />
       <recent name="C:\Users\mmale\Repozytoria\inteligencja\projekt1" />
     </key>
@@ -110,6 +108,7 @@
       <workItem from="1651051649078" duration="730000" />
       <workItem from="1651059253638" duration="6011000" />
       <workItem from="1651082548078" duration="7102000" />
+      <workItem from="1651652563192" duration="12287000" />
     </task>
     <task id="LOCAL-00001" summary="zrobione lab4">
       <created>1648672102437</created>
