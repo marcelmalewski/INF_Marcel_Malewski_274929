@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457b51e1-f721-4734-9c44-a28c4c363db5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab9/article.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/article2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/article3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/zadania.ipynb" afterDir="false" />
+    <list default="true" id="457b51e1-f721-4734-9c44-a28c4c363db5" name="Changes" comment="lab 9 zrobione zadanie 1">
+      <change afterPath="$PROJECT_DIR$/lab9/gettingTweets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/gettingTweets2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab9/article2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab9/article2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab9/article3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab9/article3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab9/zadania.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab9/zadania.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -49,6 +50,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -62,7 +64,51 @@
       <recent name="C:\Users\mmale\Repozytoria\inteligencja\projekt1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.gettingTweets2">
+    <configuration name="gettingTweets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="inteligencja" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab9/gettingTweets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gettingTweets2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="inteligencja" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab9/gettingTweets2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="yes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="inteligencja" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,6 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gettingTweets2" />
+        <item itemvalue="Python.gettingTweets" />
         <item itemvalue="Python.yes" />
       </list>
     </recent_temporary>
@@ -145,6 +193,10 @@
       <workItem from="1652798627180" duration="776000" />
       <workItem from="1652803625273" duration="8503000" />
       <workItem from="1652828685431" duration="326000" />
+      <workItem from="1653496710035" duration="6000" />
+      <workItem from="1653501037253" duration="2832000" />
+      <workItem from="1653507549330" duration="6912000" />
+      <workItem from="1653571346311" duration="10423000" />
     </task>
     <task id="LOCAL-00001" summary="zrobione lab4">
       <created>1648672102437</created>
@@ -265,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652828708236</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="lab 9 zrobione zadanie 1">
+      <created>1653493083887</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1653493083887</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,9 +357,12 @@
     <MESSAGE value="lab 8 zrobione wszystko poza podpunktem i)" />
     <MESSAGE value="lab 8 zrobione w calosci" />
     <MESSAGE value="lab 8 zrobione w calosci poprawka" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 8 zrobione w calosci poprawka" />
+    <MESSAGE value="lab 9 zrobione zadanie 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 9 zrobione zadanie 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/inteligencja$gettingTweets2.coverage" NAME="gettingTweets2 Coverage Results" MODIFIED="1653590526758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab9" />
     <SUITE FILE_PATH="coverage/inteligencja$yes.coverage" NAME="yes Coverage Results" MODIFIED="1651689209002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab7" />
+    <SUITE FILE_PATH="coverage/inteligencja$gettingTweets.coverage" NAME="gettingTweets Coverage Results" MODIFIED="1653590503532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab9" />
   </component>
 </project>
