@@ -1,45 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457b51e1-f721-4734-9c44-a28c4c363db5" name="Changes" comment="lab 9 zrobione wszystko">
-      <change afterPath="$PROJECT_DIR$/projekt2/plot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projekt2/projekt2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projekt2/spiderTweets.csv" afterDir="false" />
+    <list default="true" id="f71fe914-a377-4187-bffb-74a614b4ae2c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/zadania.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab9/zadania.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projekt2/projekt2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projekt2/projekt2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-        <option value="Jupyter Notebook" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectId" id="26SgvNXtJfZUGqCJaPUynKIrWOU" />
+  <component name="ProjectId" id="2AG31mXUjV4iJLcpTUocYILbDPH" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -51,326 +29,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mmale\Repozytoria\inteligencja" />
-      <recent name="C:\Users\mmale\Repozytoria\inteligencja\lab8" />
-      <recent name="C:\Users\mmale\Repozytoria\inteligencja\lab7" />
-      <recent name="C:\Users\mmale\Repozytoria\inteligencja\lab6" />
-      <recent name="C:\Users\mmale\Repozytoria\inteligencja\projekt1" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.gettingTweets2">
-    <configuration name="gettingTweets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="inteligencja" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab9/gettingTweets.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gettingTweets2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="inteligencja" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab9/gettingTweets2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="yes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="inteligencja" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab7/yes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.gettingTweets2" />
-        <item itemvalue="Python.gettingTweets" />
-        <item itemvalue="Python.yes" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="457b51e1-f721-4734-9c44-a28c4c363db5" name="Changes" comment="" />
-      <created>1647422635856</created>
+      <changelist id="f71fe914-a377-4187-bffb-74a614b4ae2c" name="Changes" comment="" />
+      <created>1654621890604</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647422635856</updated>
-      <workItem from="1647422642487" duration="9864000" />
-      <workItem from="1648027158950" duration="4945000" />
-      <workItem from="1648033709890" duration="1885000" />
-      <workItem from="1648037943464" duration="4760000" />
-      <workItem from="1648628334987" duration="8185000" />
-      <workItem from="1648655068925" duration="10849000" />
-      <workItem from="1648742220832" duration="16000" />
-      <workItem from="1649234862939" duration="3229000" />
-      <workItem from="1649243311250" duration="52000" />
-      <workItem from="1649259387337" duration="684000" />
-      <workItem from="1649284947819" duration="6000" />
-      <workItem from="1649313416203" duration="4299000" />
-      <workItem from="1649365544309" duration="5618000" />
-      <workItem from="1649442803400" duration="4122000" />
-      <workItem from="1649494049841" duration="270000" />
-      <workItem from="1649583638722" duration="15672000" />
-      <workItem from="1649610486852" duration="1690000" />
-      <workItem from="1649612224309" duration="2176000" />
-      <workItem from="1649614446719" duration="1173000" />
-      <workItem from="1649837987378" duration="11506000" />
-      <workItem from="1649928316855" duration="2316000" />
-      <workItem from="1649932773757" duration="3408000" />
-      <workItem from="1649952009695" duration="5816000" />
-      <workItem from="1650026442070" duration="15904000" />
-      <workItem from="1650054479931" duration="1238000" />
-      <workItem from="1650055806065" duration="6315000" />
-      <workItem from="1650111494913" duration="25220000" />
-      <workItem from="1650222690130" duration="14204000" />
-      <workItem from="1650273256822" duration="10118000" />
-      <workItem from="1650304633414" duration="10667000" />
-      <workItem from="1650355382783" duration="5733000" />
-      <workItem from="1650376310172" duration="5723000" />
-      <workItem from="1650410175938" duration="84000" />
-      <workItem from="1650410276249" duration="4555000" />
-      <workItem from="1650415082535" duration="3088000" />
-      <workItem from="1650447778396" duration="234000" />
-      <workItem from="1651048541855" duration="3028000" />
-      <workItem from="1651051649078" duration="730000" />
-      <workItem from="1651059253638" duration="6011000" />
-      <workItem from="1651082548078" duration="7102000" />
-      <workItem from="1651652563192" duration="12325000" />
-      <workItem from="1651687398827" duration="2158000" />
-      <workItem from="1651689579337" duration="673000" />
-      <workItem from="1652798627180" duration="776000" />
-      <workItem from="1652803625273" duration="8503000" />
-      <workItem from="1652828685431" duration="326000" />
-      <workItem from="1653496710035" duration="6000" />
-      <workItem from="1653501037253" duration="2832000" />
-      <workItem from="1653507549330" duration="6912000" />
-      <workItem from="1653571346311" duration="10462000" />
-      <workItem from="1653934237911" duration="8636000" />
-      <workItem from="1654071574707" duration="27479000" />
-      <workItem from="1654152338632" duration="3699000" />
+      <updated>1654621890604</updated>
+      <workItem from="1654621893725" duration="680000" />
     </task>
-    <task id="LOCAL-00001" summary="zrobione lab4">
-      <created>1648672102437</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1648672102437</updated>
-    </task>
-    <task id="LOCAL-00002" summary="dokończone lab5">
-      <created>1649260026794</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1649260026794</updated>
-    </task>
-    <task id="LOCAL-00003" summary="dokończone lab5">
-      <created>1649260050564</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1649260050564</updated>
-    </task>
-    <task id="LOCAL-00004" summary="na laptopa">
-      <created>1649894336687</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1649894336687</updated>
-    </task>
-    <task id="LOCAL-00005" summary="projekt na ukończeniu">
-      <created>1650313441915</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1650313441915</updated>
-    </task>
-    <task id="LOCAL-00006" summary="poprawka">
-      <created>1650442094564</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1650442094564</updated>
-    </task>
-    <task id="LOCAL-00007" summary="poprawka">
-      <created>1650442713980</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1650442713980</updated>
-    </task>
-    <task id="LOCAL-00008" summary="poprawka">
-      <created>1650442740863</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1650442740863</updated>
-    </task>
-    <task id="LOCAL-00009" summary="lab 1 wysłane ponownie">
-      <created>1650443193926</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1650443193926</updated>
-    </task>
-    <task id="LOCAL-00010" summary="ukończony projekt">
-      <created>1650443788920</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1650443788920</updated>
-    </task>
-    <task id="LOCAL-00011" summary="ukończony projekt finalnie">
-      <created>1650447803279</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1650447803279</updated>
-    </task>
-    <task id="LOCAL-00012" summary="zrobiona lab6 zadanie 1">
-      <created>1651065633126</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1651065633126</updated>
-    </task>
-    <task id="LOCAL-00013" summary="zrobiona lab7 zadanie 1-3">
-      <created>1651681486537</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1651681486537</updated>
-    </task>
-    <task id="LOCAL-00014" summary="lab 8 prawie zrobione">
-      <created>1652359007055</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1652359007055</updated>
-    </task>
-    <task id="LOCAL-00015" summary="lab 8 zrobione wszystko poza podpunktem i)">
-      <created>1652804085102</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1652804085102</updated>
-    </task>
-    <task id="LOCAL-00016" summary="lab 8 zrobione w calosci">
-      <created>1652828624747</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1652828624747</updated>
-    </task>
-    <task id="LOCAL-00017" summary="lab 8 zrobione w calosci poprawka">
-      <created>1652828708236</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1652828708236</updated>
-    </task>
-    <task id="LOCAL-00018" summary="lab 9 zrobione zadanie 1">
-      <created>1653493083887</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1653493083887</updated>
-    </task>
-    <task id="LOCAL-00019" summary="lab 9 zrobione wszystko">
-      <created>1653590719476</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1653590719476</updated>
-    </task>
-    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="zrobione lab4" />
-    <MESSAGE value="dokończone lab5" />
-    <MESSAGE value="na laptopa" />
-    <MESSAGE value="projekt na ukończeniu" />
-    <MESSAGE value="poprawka" />
-    <MESSAGE value="lab 1 wysłane ponownie" />
-    <MESSAGE value="ukończony projekt" />
-    <MESSAGE value="ukończony projekt finalnie" />
-    <MESSAGE value="zrobiona lab6 zadanie 1" />
-    <MESSAGE value="zrobiona lab7 zadanie 1-3" />
-    <MESSAGE value="lab 8 prawie zrobione" />
-    <MESSAGE value="lab 8 zrobione wszystko poza podpunktem i)" />
-    <MESSAGE value="lab 8 zrobione w calosci" />
-    <MESSAGE value="lab 8 zrobione w calosci poprawka" />
-    <MESSAGE value="lab 9 zrobione zadanie 1" />
-    <MESSAGE value="lab 9 zrobione wszystko" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 9 zrobione wszystko" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/inteligencja$gettingTweets2.coverage" NAME="gettingTweets2 Coverage Results" MODIFIED="1653590526758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab9" />
